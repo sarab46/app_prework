@@ -25,6 +25,11 @@ Instagram -- stories, posts, reels
 Venmo -- can see other people, qr code generated, easy to send/receive
 Linkedin -- easy to search, can send messages, can comment
 
+Idea for app:
+Someway to connect with people in a similar community (or find mentors).
+
+This cna be a platform that helps people connect with others from similar communities or backgrounds. It can be for support, networking, or mentorship. Users could find mentors who understand their unique experiences or challenges, making the guidance more meaningful. The app could include filters based on shared identity, interests, career paths, or goals, and offer features like messaging, virtual meetups, and  resources.
+
 ## Notes
 
 Describe any challenges encountered while building the app.
